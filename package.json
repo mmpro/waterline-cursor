@@ -15,15 +15,14 @@
   "license": "MIT",
   "dependencies": {
     "async": "2.0.1",
-    "lodash": "3.10.1"
+    "lodash": "4.17.10"
   },
   "devDependencies": {
     "jpath": "0.0.20",
-    "mocha": "3.0.2",
-    "npm": "2.15.6",
-    "sails-disk": "^0.10.10",
-    "sails-memory": "^0.10.7",
-    "waterline-adapter-tests": "^0.12.1"
+    "mocha": "^5.2.0",
+    "sails-disk": "^1.0.1",
+    "sails-memory": "github:mmpro/sails-memory",
+    "waterline-adapter-tests": "github:mmpro/waterline-adapter-tests"
   },
   "repository": {
     "type": "git",
